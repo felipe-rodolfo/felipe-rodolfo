@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SOGO Tecnologia](https://sogo.com.br/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Spring**
 
 - 📝 I regularly write articles on [https://feliperodolfo-midias.medium.com/](https://feliperodolfo-midias.medium.com/)
 
