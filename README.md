@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A passionate backend developer from Brasil</h3>
+<h3 align="center">A passionate web developer from Brasil</h3>
 
 - 🔭 I’m currently working on [SOGO Tecnologia](https://sogo.com.br/)
-
-- 🌱 I’m currently learning **Spring**
 
 - 📝 I regularly write articles on [https://feliperodolfo-midias.medium.com/](https://feliperodolfo-midias.medium.com/)
 
